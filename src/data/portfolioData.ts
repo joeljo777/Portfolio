@@ -10,7 +10,7 @@ export const PERSONAL_INFO = {
   location: "Bengaluru, India",
   github: "https://github.com/joeljo777",
   linkedin: "https://linkedin.com/in/joel-jo",
-  resumeDriveUrl: "https://drive.google.com/file/d/1TGS5SRY794NPwbgRr_TQ4EBOv1Pkj3dM/view?usp=sharing",
+  resumeDriveUrl: "https://drive.google.com/file/d/1CZ5VM8Qji94ro6wnocFbv6TigazXgVIt/view?usp=sharing",
   currentFocus: "STM32 Firmware, CAN Bus Diagnostics & Safety-Critical RTOS",
   telemetry: {
     coreSpeed: "240 MHz",
